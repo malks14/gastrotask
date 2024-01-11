@@ -1,0 +1,10 @@
+[
+  { "bgColor": "#FFEDD4", "colorTitle": "Orange" },
+  { "bgColor": "#DCFCE7", "colorTitle": "Green" },
+  { "bgColor": "#FEE2E2", "colorTitle": "Red" },
+  { "bgColor": "#FEF9C3", "colorTitle": "Yellow" },
+  { "bgColor": "#D8EBFE", "colorTitle": "Blue" },
+  { "bgColor": "#F3E8FF", "colorTitle": "Purple" },
+  { "bgColor": "#FCE7F3", "colorTitle": "Pink" },
+  { "bgColor": "#E5E7EB", "colorTitle": "Grey" }
+]

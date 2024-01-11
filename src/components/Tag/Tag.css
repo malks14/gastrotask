@@ -1,0 +1,19 @@
+.tagCtn {
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+    margin-top: 0.3rem
+}
+
+.tag {
+    display:flex;
+    gap: 0.5rem;
+    padding: 0.25rem;
+    border-radius: 0.25rem;
+}
+
+.tag button {
+    border: none;
+    background: transparent;
+}
